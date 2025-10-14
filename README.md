@@ -27,6 +27,11 @@ Passionate about **clean code**, **system design**, and **efficient, maintainabl
 ### 🛠️ Tech Stack
 
 #### 💬 Languages
+- Java  
+- JavaScript  
+- TypeScript
+
+#### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
