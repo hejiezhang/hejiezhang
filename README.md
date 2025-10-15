@@ -34,7 +34,7 @@ Passionate about **clean code**, **system design**, and **efficient, maintainabl
 - Java, Spring Boot, Spring Security, Spring Data JPA/Hibernate/MyBatis, Express.js, Node.js  
 
 #### 🗄️ Databases
-- MySQL, PostgreSQL, Redis
+- MySQL, PostgreSQL, Redis, MongoDB
 - Database Migration: Flyway 
 
 #### 🛠️ Tools & Technologies
